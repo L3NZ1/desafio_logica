@@ -19,11 +19,8 @@ if (nivel <1000) {
 }else
 { (nivel>=10000)
     ranking ="radiante"
-    console.log ;
+    
 }
         
  
-
-
-
-console.log("o heroi cujo nome é "+(nome)+" esta no nivel:"+(nivel)+" e cehgou no nivel "+(ranking));
+console.log("o heroi cujo nome é "+(nome)+" atualmete tem:"+(nivel)+" de xp e cehgou no nivel "+(ranking));
