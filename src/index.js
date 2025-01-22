@@ -19,12 +19,11 @@ if (nivel <1000) {
 }else
 { (nivel>=10000)
     ranking ="radiante"
-    console.log ("o temido "+(nome)+" esta no nivel: "+(nivel)+"chegou no "+(ranking)+
-    "o maior ranking que se pode chegar");
-    ;
+    console.log ;
 }
         
  
 
 
 
+console.log("o heroi cujo nome é "+(nome)+" esta no nivel:"+(nivel)+" e cehgou no nivel "+(ranking));
